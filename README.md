@@ -2,7 +2,7 @@
 
 Heco Studio 是一个帮助开发者快速开发 Heco 智能合约的集成化开发环境。
 
-![](./screenshots/compile.png)
+![](./screenshots/main.png)
 
 ## 安装
 
@@ -37,7 +37,7 @@ Heco Studio 安装包可以在 [Github Releases](https://github.com/ObsidianLabs
 进入主界面后，我们需要首先创建一些密钥对。在 Heco Studio 的任意界面，点击应用左下⻆的钥匙图标，打开密钥管理器。
 
 <p align="center">
-  <img src="./screenshots/keypairs.png" width="480px">
+  <img src="./screenshots/keypairs.png" width="720px">
 </p>
 
 你可以在密钥管理器中创建、导入并管理密钥对。在创建和编辑密钥对的时候，你可以为该密钥对设置别名，方便在后续的使用中进行识别。密钥管理器除了对密钥对进行储存管理外，还将为创世区块提供创世地址。创建新的 Heco 节点实例时，Heco Studio 会使用密钥管理器里的地址作为创世地址。
